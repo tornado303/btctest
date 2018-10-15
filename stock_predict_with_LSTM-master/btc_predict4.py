@@ -1,4 +1,11 @@
 #coding=utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Date    : 2018-10-15
+# @Author  : venucia
+# @QQ      : 94003990
+# @github  : https://github.com/tornado303
+
 
 from keras.layers.core import Activation, Dense
 from keras.layers.embeddings import Embedding
